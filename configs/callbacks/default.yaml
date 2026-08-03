@@ -1,0 +1,2 @@
+checkpoint: true
+save_top_k: 3

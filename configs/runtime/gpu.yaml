@@ -1,0 +1,7 @@
+device: cuda
+
+seed: 42
+
+mixed_precision: true
+
+compile: false

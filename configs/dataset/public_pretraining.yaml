@@ -1,0 +1,7 @@
+name: public_pretraining
+
+root: data
+
+format: mzML
+
+recursive: true
