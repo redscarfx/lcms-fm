@@ -37,17 +37,11 @@ The long-term goal is to build a foundation model that can be adapted to a wide 
 
 ---
 
-## Repository Structure
+## Repository structure
 
-```text
-configs/
-data/
-docs/
-notebooks/
-scripts/
-src/
-tests/
-```
+See:
+
+docs/architecture.md
 
 ---
 
