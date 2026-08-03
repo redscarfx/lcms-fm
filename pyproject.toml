@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "foundation-lcms"
+version = "0.1.0"
+description = "Foundation model research framework for untargeted LC-HRMS metabolomics"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+authors = [
+    { name = "Aaron G" }
+]
+
+dependencies = [
+    "numpy",
+    "pandas",
+    "pyteomics",
+    "hydra-core",
+    "omegaconf",
+    "tqdm"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
