@@ -1,0 +1,7 @@
+data_dir: data
+
+checkpoint_dir: checkpoints
+
+output_dir: outputs
+
+pretrained_dir: pretrained

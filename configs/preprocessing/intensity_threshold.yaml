@@ -1,0 +1,7 @@
+name: intensity_threshold
+
+relative_threshold: 0.05
+
+per_scan: true
+
+ms_level: 1

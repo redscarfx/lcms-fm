@@ -1,0 +1,18 @@
+defaults:
+  - _self_
+  - /dataset: public_pretraining
+  - /preprocessing: intensity_threshold
+  - /dataloader: default
+  - /model: tiny
+  - /ssl: identity
+  - /optimizer: adamw
+  - /scheduler: cosine
+  - /trainer: default
+  - /callbacks: default
+  - /logger: default
+  - /paths: default
+  - /runtime: gpu
+
+hydra:
+  job:
+    chdir: false
