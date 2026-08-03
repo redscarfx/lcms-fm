@@ -39,9 +39,8 @@ The long-term goal is to build a foundation model that can be adapted to a wide 
 
 ## Repository structure
 
-See:
-
-docs/architecture.md
+For a detailed overview of the repository organization, see
+[`docs/architecture.md`](docs/architecture.md).
 
 ---
 
