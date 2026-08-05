@@ -1,11 +1,16 @@
 # Foundation-LCMS
 
-> A modular research framework for self-supervised foundation models on untargeted LC-HRMS metabolomics.
+A modular research framework for self-supervised foundation models on untargeted LC-HRMS metabolomics.
 
 
 
 <p align="center">
   <img src="IMG-20260724-WA0000.jpg" alt="Project Banner" width="800">
+  <
+</p>
+
+<p align="center">
+  <em>Figure 1. Latent space visualization learned via self-supervised contrastive learning and a Variational Autoencoder (VAE) using ChemBERTa embeddings on a public molecular dataset.</em>
 </p>
 
 ---
