@@ -2,6 +2,12 @@
 
 > A modular research framework for self-supervised foundation models on untargeted LC-HRMS metabolomics.
 
+
+
+<p align="center">
+  <img src="images/IMG-20260724-WA0000.jpg" alt="Project Banner" width="800">
+</p>
+
 ---
 
 ## Overview
