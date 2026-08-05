@@ -10,7 +10,7 @@ A modular research framework for self-supervised foundation models on untargeted
 </p>
 
 <p align="center">
-  <em>Figure 1. Latent space visualization learned via self-supervised contrastive learning and a Variational Autoencoder (VAE) using ChemBERTa embeddings on a public molecular dataset.</em>
+  <em>Figure 1. Latent space visualization learned by a self-supervised contrastive VAE using ChemBERTa embeddings on the public MoleculeNet Tox21 dataset, annotated with 21 chemical families defined by SMARTS rules.</em>
 </p>
 
 ---
