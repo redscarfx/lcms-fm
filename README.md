@@ -10,7 +10,7 @@ A modular research framework for self-supervised foundation models on untargeted
 </p>
 
 <p align="center">
-  <em>Figure 1. Latent space visualization learned by a fine-tuned ChemBERTa with triplet loss embeddings on the public MoleculeNet Tox21 dataset, annotated with 21 chemical families defined by SMARTS rules.</em>
+  <em>Figure 1. Latent space visualization learned by a fine-tuned ChemBERTa embeddings with triplet loss  on the public MoleculeNet Tox21 dataset, annotated with 21 chemical families defined by SMARTS rules.</em>
 </p>
 
 ---
